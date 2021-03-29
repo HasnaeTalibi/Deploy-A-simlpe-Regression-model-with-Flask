@@ -1,7 +1,7 @@
 # Deploy-A-simlpe-Regression-model-with-Flask
 
 
-To run the Flask App, open the terminal, navigate to the directory that contains all this files using the linux command 'cd' and simply run :
+To run the Flask App, open the terminal, navigate to the directory that contains all this files using the linux command 'cd path_to_the_folder' and simply run :
 
 **python -m flask run**
 
